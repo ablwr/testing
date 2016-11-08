@@ -3,4 +3,5 @@ testing
 
 for learning!
 
-thank you Ashley for making this cool repo where we can test things and teach people Github!
+
+Some real nonsense here on line 7. The pressure to write something intelligent is intense, but I am resisting!
