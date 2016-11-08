@@ -1,3 +1,5 @@
 Ensuring git quality forever
 
 and ever
+
+Now you can start making those pull request.
